@@ -7,6 +7,9 @@ To add [When? GoldenRush](https://discord.com/oauth2/authorize?client_id=1221974
 # Usage
 Once GoldenRush is added to your Discord server, you can utilize it by typing "!when?" in any text channel. The bot will then promptly respond with the current status of the GoldenRush event in Sea of Thieves.
 
+# Local Installation
+This bot utilizes npm packages like nodemon, dotenv, and moment, requiring the presence of Node.js as well. and then use the index.js file as the main file.
+
 # Support
 If you encounter any issues or have any questions about, "When? GoldenRush", feel free to contact me. on discord ➟ rew_phew
 
